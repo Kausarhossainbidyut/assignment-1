@@ -397,3 +397,38 @@
     padding-bottom: 50px;
 
 }
+
+/* Chief-adviser style section  */
+
+#contan-dr-yunus{
+    padding: 30px;
+    background-color: #d2fffa;
+    margin: 50px;
+    border-radius: 14px;
+}
+
+#chief-adviser{ 
+    background-image: url("../image/quote-bg.png");
+    background-repeat: no-repeat;
+  
+}
+
+.younus-about{
+    padding-top: 30px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    opacity: 0.9;
+    
+}
+
+.yunus{
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+
+.title-yunuse{
+    opacity: 0.7;
+    padding-bottom: 30px;
+}
+
+/* style end  */
