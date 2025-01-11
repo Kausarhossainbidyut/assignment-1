@@ -34,7 +34,14 @@
     font-weight: bold;
     color: #0E0E0E;
 }
-
+.btn-hero{
+    cursor: pointer;
+}
+.btn-hero:hover{
+    background-color: #aa8224;
+    color: #0E0E0E;
+    font-weight: bolder;
+}
 .btn button{
     background-color: #006A50;
     color: #ffffff;
@@ -113,6 +120,13 @@
     color: #ffffff;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
+
+}
+.btn-1:hover{
+    background-color: #928465;
+    font-weight: bold;
+    color: black;
 }
 .btn-2{
     width: 122px;
@@ -121,6 +135,12 @@
     color: #ffffff;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
+}
+.btn-2:hover{
+    background-color: #5d96ff;
+    font-weight: bold;
+    color: black;
 }
 .btn-3{
     width: 122px;
@@ -129,8 +149,14 @@
     color: #ffffff;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
-
+.btn-3:hover{
+    background-color: #589177;
+    font-weight: bold;
+    color: black;
+    
+}
 /* page-3 style  */
 
 .content-box-3{
@@ -169,8 +195,13 @@
     border-radius: 8px;
     border: none;
     margin-top: 50px;
+    cursor: pointer;
 }
-
+.btn-rm:hover{
+    background-color: tomato;
+    color: black;
+    font-weight: bolder;
+}
 /* page-4 style  */
 
 .donate-box{
@@ -207,6 +238,11 @@
     align-items: center;
     border-radius: 14px;
     margin-top: -40px;
+    cursor: pointer;
+}
+.thak-1:hover{
+    background-color: #006A50;
+    color: rgb(255, 255, 255);
 }
 .thak-2{
     background-color: #f1d7d7;
@@ -217,6 +253,11 @@
     align-items: center;
     border-radius: 14px;
     margin-top: -40px;
+    cursor: pointer;
+}
+.thak-2:hover{
+    background-color: #006A50;
+    color: rgb(255, 255, 255);
 }
 .thak-3{
     background-color: #bbffb1;
@@ -227,6 +268,11 @@
     align-items: center;
     border-radius: 14px;
     margin-top: -40px;
+    cursor: pointer;
+}
+.thak-3:hover{
+    background-color: #006A50;
+    color: rgb(255, 255, 255);
 }
 .thak-4{
     background-color: #f1d7d7;
@@ -237,7 +283,13 @@
     align-items: center;
     border-radius: 14px;
     margin-top: -40px;
+    cursor: pointer;
 }
+.thak-4:hover{
+    background-color: #006A50;
+    color: rgb(255, 255, 255);
+}
+
 #page-4{
     margin: 50px;
 }
@@ -260,6 +312,12 @@
 #last-btn{
     text-align: center;
     margin: 30px 0px;
+    
+}
+.done-btn:hover{
+    background-color: #5490F5;
+    color: black;
+    font-weight: bolder;
 }
 .done-btn{
  width: 151px;
@@ -268,6 +326,8 @@
  color: #ffffff;
  border: none;
  border-radius: 7px;
+ cursor: pointer;
+ font-weight: bold;
 }
 
 /* chalange part-1  */
@@ -322,6 +382,12 @@
     border-bottom-right-radius: 14px;
     color: #FFFFFF;
     font-weight: 600;
+    cursor: pointer;
+}
+
+.sub-btn:hover{
+    background-color: pink;
+    color: black;
 }
 
 .last-p{
