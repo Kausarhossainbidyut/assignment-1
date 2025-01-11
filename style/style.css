@@ -246,13 +246,13 @@
     display: flex;
 }
 
-input{
+#page-4 input{
    height: 64px;
     width: 80%;
     margin-left: 200px;
     margin-right: 200px;
 }
-input[placeholder]{
+#page-4 input[placeholder]{
     text-align: center;
     font-size: 20px;
 }
@@ -268,4 +268,66 @@ input[placeholder]{
  color: #ffffff;
  border: none;
  border-radius: 7px;
+}
+
+/* chalange part-1  */
+
+#chalange-1page{
+    margin: 50px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+
+.subscript-box{
+    margin: 50px;
+}
+
+.subscript-box h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #0E0E0E;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.subscript-box p{
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 30px 0;
+    padding: 17px;
+}
+
+.subscript-input-item{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.sub-email{
+    width: 500px;
+    height: 25px;
+    padding: 18px 40px;
+    background-color: #FFFFFF;
+    border: none;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px;
+    /* margin-bottom: 50px; */
+}
+
+.sub-btn{
+    border: none;
+    background-color: #006A50;
+    width: 150px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.last-p{
+    display: flex;
+    justify-content: center;
+    opacity: 0.7;
+    padding-bottom: 50px;
+
 }
